@@ -1,4 +1,5 @@
 # Library-of-Wisdom
 
------------------------- MISSION STATEMENT --------------------------
+------------------------ PROJECT MISSION STATEMENT --------------------------
+
 This is our mission statement!
